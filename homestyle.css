@@ -1,0 +1,23 @@
+body h1 {
+    text-align: center;
+    color: red;
+}
+body h5 {
+    text-align: center;
+    color: pink;
+}
+
+body button {
+    color: whitesmoke;
+    background-color: black;
+    margin: auto;
+    padding: 5px;
+}
+
+.unselectable {
+    user-select: none;
+}
+
+.center {
+    text-align: center;
+}
